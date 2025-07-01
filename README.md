@@ -3,8 +3,8 @@
 Welcome to my 100-day coding challenge!
 
 ### 🔥 Goals:
-- DSA (Array → Linked List)
-- Web Dev (HTML → React)
+- DSA 
+- Web Dev 
 - Internships (Deloitte, SmartZintern, Interpe)
 - English Speaking & Personality Building
 
